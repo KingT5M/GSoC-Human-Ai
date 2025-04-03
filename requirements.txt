@@ -9,7 +9,6 @@ plotly
 scikit-learn
 transformers
 python-dotenv
-flask
 textblob
 torch
 seaborn
