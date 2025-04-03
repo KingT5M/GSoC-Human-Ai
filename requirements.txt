@@ -1,0 +1,16 @@
+# requirements.txt
+praw
+pandas
+spacy
+geopy
+folium
+vaderSentiment
+plotly
+scikit-learn
+transformers
+python-dotenv
+flask
+textblob
+torch
+seaborn
+matplotlib
